@@ -1,0 +1,6 @@
+Made using paint.net
+
+Controller is sized to 720x720 (originally 256x256)
+Logo is 680px wide
+Logo outline - 3px width, 200 softness
+Background Blur - sRGB 2.2 - 15 radius
